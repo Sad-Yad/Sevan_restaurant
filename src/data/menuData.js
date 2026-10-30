@@ -28,7 +28,7 @@ export const menuData = {
       description: 'Delicate spinach and green pea patties, lightly spiced and shallow fried until crisp on the outside.',
       price: 240,
       veg: true,
-      image: 'https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=600&auto=format&fit=crop&q=80',
+      image: '/images/hara-bhara-kebab.jpg',
       customizations: [],
     },
     {
