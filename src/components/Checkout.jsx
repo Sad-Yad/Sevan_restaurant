@@ -59,7 +59,7 @@ export default function Checkout({ isOpen, onClose }) {
     });
 
     const orderedItems = items
-      .map((i) => `${i.name} x${i.quantity}`)
+      .map((i) => i.name)
       .join('; ');
     const customizations = items
       .map((i) => {
